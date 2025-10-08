@@ -1,3 +1,3 @@
 # HEADHUNTHIVE
 
-npx create-next-app@latest -e with-supabase HHH-v1
+npx create-next-app@latest -e with-supabase hhh-v1
